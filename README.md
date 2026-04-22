@@ -12,4 +12,4 @@ Maison de R is a front-end project that captures the "timeless elegance" of a Pa
 
 ## 🛠️ Tech Stack
 * **Languages:** HTML5, CSS3
-* **Tools:** Google Maps API Integration
+* **Tools:** Integrated Google Maps redirection for real-time navigation and location services.
